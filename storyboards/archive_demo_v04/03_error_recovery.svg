@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<rect width="1200" height="430" fill="#f8fafc"/>
+<text x="38" y="49" font-size="27" font-family="Arial" font-weight="bold" fill="#17364b">Scenario 3 — Error recovery</text>
+<text x="38" y="77" font-size="15" font-family="Arial" fill="#526979">Test B: fictional irrelevant paper — ILLUSTRATED WALKTHROUGH, NOT SCREENSHOT</text>
+<rect x="38" y="108" width="358" height="252" rx="14" fill="white" stroke="#b8cbd7" stroke-width="2"/>
+<rect x="52" y="123" width="330" height="42" rx="7" fill="#e5f0f6"/>
+<text x="66" y="151" font-size="16" font-family="Arial" font-weight="bold" fill="#194c69">1. ASSESS</text>
+<text x="56" y="195" font-size="14" font-family="Arial" fill="#38566a">USER ACTION</text>
+<text x="56" y="219" font-size="15" font-family="Arial" fill="#1b3445">Student selects Test B and assesses</text>
+<text x="56" y="270" font-size="14" font-family="Arial" fill="#38566a">SYSTEM RESPONSE</text>
+<text x="56" y="294+j*19" font-size="15" font-family="Arial" fill="#1b3445">Mismatch explained using supplied</text>
+<text x="56" y="294+j*19" font-size="15" font-family="Arial" fill="#1b3445">excerpt</text>
+<text x="402" y="238" font-size="23" font-family="Arial" fill="#527a93">→</text>
+<rect x="428" y="108" width="358" height="252" rx="14" fill="white" stroke="#b8cbd7" stroke-width="2"/>
+<rect x="442" y="123" width="330" height="42" rx="7" fill="#e5f0f6"/>
+<text x="456" y="151" font-size="16" font-family="Arial" font-weight="bold" fill="#194c69">2. REPORT</text>
+<text x="446" y="195" font-size="14" font-family="Arial" fill="#38566a">USER ACTION</text>
+<text x="446" y="219" font-size="15" font-family="Arial" fill="#1b3445">Student enters reason + Report mismatch</text>
+<text x="446" y="270" font-size="14" font-family="Arial" fill="#38566a">SYSTEM RESPONSE</text>
+<text x="446" y="294+j*19" font-size="15" font-family="Arial" fill="#1b3445">Feedback saved locally; verdict</text>
+<text x="446" y="294+j*19" font-size="15" font-family="Arial" fill="#1b3445">unchanged</text>
+<text x="792" y="238" font-size="23" font-family="Arial" fill="#527a93">→</text>
+<rect x="818" y="108" width="358" height="252" rx="14" fill="white" stroke="#b8cbd7" stroke-width="2"/>
+<rect x="832" y="123" width="330" height="42" rx="7" fill="#e5f0f6"/>
+<text x="846" y="151" font-size="16" font-family="Arial" font-weight="bold" fill="#194c69">3. RECOVER</text>
+<text x="836" y="195" font-size="14" font-family="Arial" fill="#38566a">USER ACTION</text>
+<text x="836" y="219" font-size="15" font-family="Arial" fill="#1b3445">Student excludes then restores</text>
+<text x="836" y="238" font-size="15" font-family="Arial" fill="#1b3445">candidate</text>
+<text x="836" y="270" font-size="14" font-family="Arial" fill="#38566a">SYSTEM RESPONSE</text>
+<text x="836" y="294+j*19" font-size="15" font-family="Arial" fill="#1b3445">Controls disable, then become available</text>
+<text x="38" y="399" font-size="13" font-family="Arial" fill="#607989">UI actions implemented; assessment texts are scripted simulations. No live AI or source retrieval.</text></svg>
