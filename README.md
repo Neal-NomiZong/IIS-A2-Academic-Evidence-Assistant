@@ -1,4 +1,4 @@
-# Academic Evidence Assistant — V0.7 (evidence trace development candidate)
+# Academic Evidence Assistant - V0.7 (evidence trace development candidate)
 
 **Status (student-reported):** V0.7 passed 13 offline unit tests on Windows, and real OpenAlex + OpenAI analysis displayed six model fields and three literal quotation matches for a Cao et al. (2024) abstract. This is a single successful live test, NOT a systematic accuracy evaluation. **Three real browser screenshots have been captured and saved in `evidence/screenshots/`.**
 
@@ -106,7 +106,7 @@ Keep the actual outputs, screenshots if useful, terminal test command/results, a
 - `backend/test_server.py`: offline mock tests.
 - `prototype/`: browser Demo mode and Live search/assessment/trace UI.
 - `tests/TEST_MATRIX_V07.md`: testing plan for new features.
-- `diagrams/`: current V0.7 `system_architecture.svg`, `live_data_flow_v07.md`, and archived V0.4 diagram.
+- `diagrams/`: current V0.7 `system_architecture.png`, `live_data_flow_v07.md`, and archived V0.4 diagram.
 - `storyboards/`: two V0.7 Live-mode illustrations, one V0.7 Demo-mode recovery illustration; original V0.4 storyboards archived in `archive_demo_v04/`.
 - `evidence/DEVELOPMENT_RECORD_V07.md`: student-reported milestones, observed outputs, pending checks, and authorship.
 - `evidence/screenshots/`: three student-captured screenshots showing live search, LLM analysis, and Evidence Trace.
