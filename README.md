@@ -1,5 +1,7 @@
 # Academic Evidence Assistant - V0.7 (evidence trace development candidate)
 
+**README prose word count: 1,215 words**
+
 **Status (student-reported):** V0.7 passed 13 offline unit tests on Windows, and real OpenAlex + OpenAI analysis displayed six model fields and three literal quotation matches for a Cao et al. (2024) abstract. This is a single successful live test, NOT a systematic accuracy evaluation. **Three real browser screenshots have been captured and saved in `evidence/screenshots/`.**
 
 **Project:** University of Birmingham, Intelligent Interactive Systems A2.
@@ -117,5 +119,3 @@ Keep the actual outputs, screenshots if useful, terminal test command/results, a
 - [Live academic search](evidence/screenshots/01_live_search.png)
 - [Live LLM analysis](evidence/screenshots/02_llm_analysis.png)
 - [Evidence Trace](evidence/screenshots/03_evidence_trace.png)
-
-**README prose word count: 1,215 words**
