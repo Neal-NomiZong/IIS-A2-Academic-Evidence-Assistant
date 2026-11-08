@@ -8,7 +8,7 @@ This file distinguishes actual student-reported tests from design illustrations 
 | V0.5 | Python backend, real OpenAlex search and OpenAI Chat Completions abstract analysis | User reported live search and six LLM fields returned. API debugging revealed a misconfigured one-character key and was corrected. |
 | V0.6 | Instructions revised to distinguish claim scope, topical relevance and appropriate reliance | User shared general and absolute-claim regression outputs; verdicts were `potential support` and `potential contradiction`. These outputs do not prove better accuracy. |
 | V0.7 | Backend re-fetches OpenAlex work by ID, requests up to three literal quotes, checks exact substring presence, returns trace statuses | User reported 13/13 offline unit tests passed, live LLM analysis displayed all six fields and 3/3 quotations matched. Student also supplied the quotation texts and model result for Cao et al. (2024). |
-| Documentation update | Current-system architecture diagram, three storyboards, and browser screenshots | The student opened and checked the SVG diagrams and storyboards, and captured three screenshots from the locally running V0.7 system. |
+| Documentation update | Current-system architecture diagram, three storyboards, and browser screenshots | The student opened and checked the PNG diagrams and storyboards, and captured three screenshots from the locally running V0.7 system. |
 
 ## User-observed V0.7 trace excerpts (Cao et al., 2024)
 
